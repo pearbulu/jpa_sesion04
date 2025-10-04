@@ -76,6 +76,6 @@ public class FrmLogin extends JFrame {
 	//Ronald
 	
 	
-	
+	//Sotelo 
 	
 }
