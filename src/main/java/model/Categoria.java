@@ -1,5 +1,7 @@
 package model;
 
+import java.time.LocalDateTime;
+
 import javax.persistence.Entity;
 import javax.persistence.Table;
 
@@ -13,4 +15,5 @@ import lombok.Setter;
 public class Categoria {
    private Integer idCategoria;
    private String descripcion;
+   private LocalDateTime fecharegistro;
 }
